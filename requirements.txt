@@ -1,4 +1,0 @@
-python-telegram-bot
-MetaTrader5
-pandas
-scikit-learn
